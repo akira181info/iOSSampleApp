@@ -31,6 +31,7 @@
 {
     NSLog(@"Appear");
     NSLog(@"2nd");
+    NSLog(@"3rd");
 }
 
 @end
