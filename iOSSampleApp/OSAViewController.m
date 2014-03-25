@@ -30,6 +30,7 @@
 -(void)viewDidAppear:(BOOL)animated
 {
     NSLog(@"Appear");
+    NSLog(@"2nd");
 }
 
 @end
